@@ -1,0 +1,55 @@
+{
+    "configurations": [
+        {
+            "name": "C Mac GTK3",
+            "intelliSenseMode": "clang-x64",
+            "includePath": [
+
+                "~/.brew/Cellar/libffi/3.4.2/include",
+                "~/.brew/Cellar/gtk+3/3.24.30_1/include/gtk-3.0",
+                "~/.brew/Cellar/glib/2.70.2/include/gio-unix-2.0",
+                "~/.brew/Cellar/cairo/1.16.0_5/include/cairo",
+                "~/.brew/Cellar/libepoxy/1.5.9/include",
+                "~/.brew/Cellar/pango/1.50.3/include/pango-1.0",
+                "~/.brew/Cellar/harfbuzz/3.2.0/include/harfbuzz",
+                "~/.brew/Cellar/pango/1.50.3/include/pango-1.0",
+                "~/.brew/Cellar/fribidi/1.0.11/include/fribidi",
+                "~/.brew/Cellar/harfbuzz/3.2.0/include/harfbuzz",
+                "~/.brew/Cellar/graphite2/1.3.14/include",
+                "~/.brew/Cellar/atk/2.36.0/include/atk-1.0",
+                "~/.brew/Cellar/cairo/1.16.0_5/include/cairo",
+                "~/.brew/Cellar/pixman/0.40.0/include/pixman-1",
+                "~/.brew/Cellar/fontconfig/2.13.1/include",
+                "~/.brew/opt/freetype/include/freetype2",
+                "~/.brew/Cellar/libpng/1.6.37/include/libpng16",
+                "~/.brew/Cellar/libxcb/1.14_1/include",
+                "~/.brew/Cellar/libxrender/0.9.10/include",
+                "~/.brew/Cellar/libxext/1.3.4/include",
+                "~/.brew/Cellar/libx11/1.7.3.1/include",
+                "~/.brew/Cellar/libxcb/1.14_1/include",
+                "~/.brew/Cellar/libxau/1.0.9/include",
+                "~/.brew/Cellar/libxdmcp/1.1.3/include",
+                "~/.brew/Cellar/gdk-pixbuf/2.42.6/include/gdk-pixbuf-2.0",
+                "~/.brew/Cellar/libpng/1.6.37/include/libpng16",
+                "~/.brew/Cellar/libtiff/4.3.0/include",
+                "~/.brew/Cellar/glib/2.70.2/include",
+                "~/.brew/Cellar/glib/2.70.2/include/glib-2.0",
+                "~/.brew/Cellar/glib/2.70.2/lib/glib-2.0/include",
+                "~/.brew/opt/gettext/include",
+                "~/.brew/Cellar/pcre/8.45/include",
+                "~/.brew/Cellar/xorgproto/2021.5/include"
+            ],
+            "compilerPath": "/usr/bin/clang",
+            "cStandard": "c11",
+            "cppStandard": "c++17",
+            "browse": {
+                "path": [
+                    "${workspaceFolder}"
+                ],
+                "limitSymbolsToIncludedHeaders": true,
+                "databaseFilename": ""
+            }
+        }
+    ],
+    "version": 4
+}

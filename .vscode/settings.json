@@ -1,0 +1,15 @@
+{
+    "files.associations": {
+        "typeinfo": "c",
+        "uchat.h": "c",
+        "server.h": "c",
+        "client.h": "c",
+        "gtk.h": "c",
+        "stdio.h": "c",
+        "header_bd.h": "c",
+        "string.h": "c",
+        "GUI_headeR.h": "c",
+        "json.h": "c",
+        "stat.h": "c"
+    }
+}
