@@ -1,4 +1,4 @@
-ASTRO_CHAT
+ASTRO_CHAT(MAC OS)
 
 ИСПОЛЬЗУЕМЫЕ БИБЛИОТЕКИ: 
     -json-c
